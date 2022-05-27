@@ -1,0 +1,21 @@
+.header-navbar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 100%;
+}
+.nav-links {
+	display: flex;
+	list-style: none;
+}
+.nav-links li {
+	padding: 20px;
+}
+.nav-links li a {
+	text-decoration: none;
+	color: #000000;
+}
+li:hover {
+	transform: scale(1.1);
+	transition: all 0.2s ease-in-out;
+}

@@ -1,0 +1,19 @@
+.header {
+	display: flex;
+	flex-direction: row;
+	background-color: #c4c4c4;
+	padding-left: 22px;
+	height: 84px;
+}
+.header-logo {
+	color: black;
+	text-decoration: inherit;
+	font-family: RobotoThin;
+	line-height: 84px;
+	font-size: 40px;
+}
+
+#cucumberLogo {
+	height: 90px;
+	width: auto;
+}

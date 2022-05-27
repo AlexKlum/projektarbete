@@ -1,0 +1,21 @@
+.recipes {
+	width: 600px;
+	background-color: #c4c4c4;
+	margin: 0 auto;
+	display: flex;
+	margin-top: 20px;
+}
+
+.recipeImg {
+	height: auto;
+	width: auto;
+	padding: 10px;
+}
+.recipes img {
+	height: 100%;
+	width: 160px;
+}
+.info {
+	margin-left: 10px;
+	text-align: left;
+}
